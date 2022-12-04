@@ -1,4 +1,4 @@
- <img src="https://github.com/BeanstalkFarms/Beanstalk-Assets/blob/main/BEAN/bean-128x128.png" alt="Beanstalk logo" align="right" width="120" />
+ <img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/BEAN/bean-128x128.png" alt="Beanstalk logo" align="right" width="120" />
 
 # Beanstalk
 
@@ -40,4 +40,4 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 * [Beanstalk Governance Proposals](https://github.com/BeanstalkFarms/Beanstalk-Governance-Proposals)
 * [Beanstalk Farms Operations](https://github.com/BeanstalkFarms/Beanstalk-Farms-Operations)
 * [Beanstalk Audits](https://github.com/BeanstalkFarms/Beanstalk-Audits)
-* [Beanstalk Assets](https://github.com/BeanstalkFarms/Beanstalk-Assets)
+* [Beanstalk Brand Assets](https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets)
