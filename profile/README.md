@@ -15,6 +15,8 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 
 * [Whitepaper](https://bean.money/beanstalk.pdf)
 * [Beanstalk UI](https://app.bean.money)
+* [Beanstalk Discord](https://discord.gg/beanstalk)
+* [Beanstalk Farms Twitter](https://twitter.com/BeanstalkFarms)
 * [Farmers' Almanac (Documentation Hub)](https://docs.bean.money/almanac)
 * [Agronomics Handbook (Technical Docs)](https://docs.bean.money/developers)
 * [Immunefi Bug Bounty Program](https://immunefi.com/bounty/beanstalk)
