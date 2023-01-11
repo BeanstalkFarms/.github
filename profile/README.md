@@ -11,9 +11,19 @@ Beanstalk is a permissionless fiat stablecoin protocol.
 
 Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy facilitated by the seigniorage of its native fiat currency, a stablecoin called Bean.
 
+### About Beanstalk Farms
+
+[Beanstalk Farms](https://docs.bean.money/almanac/governance/beanstalk-farms) is a decentralized development organization funded by the Beanstalk DAO, operating across the stack on technical and non-technical problems. 
+
+## Projects
+
+ <img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/BEAN/bean-128x128.png" alt="Beanstalk logo" width="18" /> [Beanstalk](https://bean.money/) 
+ 
+ <img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/pipeline/pipeline-128x128.png" alt="Beanstalk logo" width="18" /> [Pipeline](https://evmpipeline.org/)
+
 ## Links
 
-* [Whitepaper](https://bean.money/beanstalk.pdf)
+* [Beanstalk Whitepaper](https://bean.money/beanstalk.pdf)
 * [Beanstalk UI](https://app.bean.money)
 * [Beanstalk Discord](https://discord.gg/beanstalk)
 * [Beanstalk Farms Twitter](https://twitter.com/BeanstalkFarms)
@@ -24,7 +34,7 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 
 ## Repositories
 
-### Development Repos
+### Beanstalk
 
 * [Beanstalk](https://github.com/BeanstalkFarms/Beanstalk)
     * [Beanstalk Protocol](https://github.com/BeanstalkFarms/Beanstalk/tree/master/protocol)
@@ -35,16 +45,22 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 * [Beanstalk Py (Bot Tooling)](https://github.com/BeanstalkFarms/Beanstalk-Py)
 * [Beanstalk Analytics](https://github.com/BeanstalkFarms/Beanstalk-Analytics)
 * [Beanstalk Landing Page](https://github.com/BeanstalkFarms/Beanstalk-Landing)
-* [Pipeline](https://github.com/BeanstalkFarms/Pipeline)
-* [Pipeline Landing Page](https://github.com/BeanstalkFarms/Pipeline-Landing)
-
-### Documentation Repos
-
 * [Farmers' Almanac](https://github.com/BeanstalkFarms/Farmers-Almanac)
 * [Agronomics Handbook](https://github.com/BeanstalkFarms/Agronomics-Handbook)
 * [Beanstalk Whitepaper](https://github.com/BeanstalkFarms/Beanstalk-Whitepaper)
-* [Pipeline Whitepaper](https://github.com/BeanstalkFarms/Pipeline-Whitepaper)
 * [Beanstalk Governance Proposals](https://github.com/BeanstalkFarms/Beanstalk-Governance-Proposals)
+
+### Pipeline
+
+* [Pipeline](https://github.com/BeanstalkFarms/Pipeline)
+* [Pipeline Landing Page](https://github.com/BeanstalkFarms/Pipeline-Landing)
+
+### Wells
+
+* [Wells](https://github.com/BeanstalkFarms/Wells)
+
+### Misc.
+
 * [Beanstalk Farms Operations](https://github.com/BeanstalkFarms/Beanstalk-Farms-Operations)
 * [Beanstalk Audits](https://github.com/BeanstalkFarms/Beanstalk-Audits)
 * [Beanstalk Brand Assets](https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets)
