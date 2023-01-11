@@ -27,9 +27,12 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 ### Development Repos
 
 * [Beanstalk](https://github.com/BeanstalkFarms/Beanstalk)
-* [Beanstalk SDK](https://github.com/BeanstalkFarms/Beanstalk-SDK)
+    * [Beanstalk Protocol](https://github.com/BeanstalkFarms/Beanstalk/tree/master/protocol)
+    * [Beanstalk SDK](https://github.com/BeanstalkFarms/Beanstalk/tree/master/projects/sdk)
+    * [Beanstalk Subgraph](https://github.com/BeanstalkFarms/Beanstalk/tree/master/projects/subgraph-beanstalk)
+    * [Bean Subgraph](https://github.com/BeanstalkFarms/Beanstalk/tree/master/projects/subgraph-bean)
+    * [Beanstalk UI](https://github.com/BeanstalkFarms/Beanstalk/tree/master/projects/ui)
 * [Beanstalk Py (Bot Tooling)](https://github.com/BeanstalkFarms/Beanstalk-Py)
-* [Beanstalk Subgraph](https://github.com/BeanstalkFarms/Beanstalk-Subgraph)
 * [Beanstalk Analytics](https://github.com/BeanstalkFarms/Beanstalk-Analytics)
 * [Beanstalk Landing Page](https://github.com/BeanstalkFarms/Beanstalk-Landing)
 * [Pipeline](https://github.com/BeanstalkFarms/Pipeline)
