@@ -54,6 +54,7 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 
 * [Pipeline](https://github.com/BeanstalkFarms/Pipeline)
 * [Pipeline Landing Page](https://github.com/BeanstalkFarms/Pipeline-Landing)
+* [Pipeline Whitepaper](https://github.com/BeanstalkFarms/Pipeline-Whitepaper)
 
 ### Wells
 
