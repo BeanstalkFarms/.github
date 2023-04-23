@@ -48,7 +48,6 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 * [Farmers' Almanac](https://github.com/BeanstalkFarms/Farmers-Almanac)
 * [Agronomics Handbook](https://github.com/BeanstalkFarms/Agronomics-Handbook)
 * [Beanstalk Whitepaper](https://github.com/BeanstalkFarms/Beanstalk-Whitepaper)
-* [Beanstalk Governance Proposals](https://github.com/BeanstalkFarms/Beanstalk-Governance-Proposals)
 
 ### Pipeline
 
@@ -62,6 +61,7 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 
 ### Misc.
 
+* [Beanstalk Governance Proposals](https://github.com/BeanstalkFarms/Beanstalk-Governance-Proposals)
 * [Beanstalk Farms Operations](https://github.com/BeanstalkFarms/Beanstalk-Farms-Operations)
 * [Beanstalk Audits](https://github.com/BeanstalkFarms/Beanstalk-Audits)
 * [Beanstalk Brand Assets](https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets)
