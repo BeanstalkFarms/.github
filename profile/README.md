@@ -13,14 +13,16 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 
 ### About Beanstalk Farms
 
-[Beanstalk Farms](https://docs.bean.money/almanac/governance/beanstalk-farms) is a decentralized development organization funded by the Beanstalk DAO, operating across the stack on technical and non-technical problems. 
+[Beanstalk Farms](https://docs.bean.money/almanac/governance/beanstalk-farms) is a decentralized development organization working on Beanstalk, Basin and Pipeline.
 
 ## Projects
 
- <img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/BEAN/bean-128x128.png" alt="Beanstalk logo" width="18" /> [Beanstalk](https://bean.money/) 
+<img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/BEAN/bean-128x128.png" alt="Beanstalk logo" width="18" /> [Beanstalk](https://bean.money/) 
  
- <img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/pipeline/pipeline-128x128.png" alt="Beanstalk logo" width="18" /> [Pipeline](https://evmpipeline.org/)
-
+<img src="https://user-images.githubusercontent.com/28496268/236340348-d8d28a8c-5e7b-41c5-a0f1-88e417328d1c.png" alt="Basin logo" width="18" /> [Basin](https://twitter.com/basinexchange)
+ 
+<img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/pipeline/pipeline-128x128.png" alt="Pipeline logo" width="18" /> [Pipeline](https://evmpipeline.org/)
+ 
 ## Links
 
 * [Beanstalk Whitepaper](https://bean.money/beanstalk.pdf)
@@ -49,15 +51,15 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 * [Agronomics Handbook](https://github.com/BeanstalkFarms/Agronomics-Handbook)
 * [Beanstalk Whitepaper](https://github.com/BeanstalkFarms/Beanstalk-Whitepaper)
 
+### Basin
+
+* [Basin](https://github.com/BeanstalkFarms/Basin)
+
 ### Pipeline
 
 * [Pipeline](https://github.com/BeanstalkFarms/Pipeline)
 * [Pipeline Landing Page](https://github.com/BeanstalkFarms/Pipeline-Landing)
 * [Pipeline Whitepaper](https://github.com/BeanstalkFarms/Pipeline-Whitepaper)
-
-### Wells
-
-* [Wells](https://github.com/BeanstalkFarms/Wells)
 
 ### Misc.
 
