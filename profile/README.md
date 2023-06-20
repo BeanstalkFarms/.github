@@ -19,20 +19,34 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 
 <img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/BEAN/bean-128x128.png" alt="Beanstalk logo" width="18" /> [Beanstalk](https://bean.money/) 
  
-<img src="https://user-images.githubusercontent.com/28496268/236340348-d8d28a8c-5e7b-41c5-a0f1-88e417328d1c.png" alt="Basin logo" width="18" /> [Basin](https://twitter.com/basinexchange)
+<img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/basin/basin(green)-128x128.png" alt="Basin logo" width="18" /> [Basin](https://basin.exchange/)
  
 <img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/pipeline/pipeline-128x128.png" alt="Pipeline logo" width="18" /> [Pipeline](https://evmpipeline.org/)
  
 ## Links
 
+* [Beanstalk Farms Twitter](https://twitter.com/BeanstalkFarms)
+* [Immunefi Bug Bounty Program](https://immunefi.com/bounty/beanstalk)
+
+### Beanstalk 
 * [Beanstalk Whitepaper](https://bean.money/beanstalk.pdf)
 * [Beanstalk UI](https://app.bean.money)
 * [Beanstalk Discord](https://discord.gg/beanstalk)
-* [Beanstalk Farms Twitter](https://twitter.com/BeanstalkFarms)
-* [Farmers' Almanac (Documentation Hub)](https://docs.bean.money/almanac)
-* [Agronomics Handbook (Technical Docs)](https://docs.bean.money/developers)
-* [Immunefi Bug Bounty Program](https://immunefi.com/bounty/beanstalk)
-* [Other Links](https://docs.bean.money/almanac/community/links)
+* [Beanstalk Twitter](https://twitter.com/BeanstalkFarms)
+* [Farmers' Almanac](https://docs.bean.money/almanac)
+* [Agronomics Handbook](https://docs.bean.money/developers)
+* [Other Beanstalk Links](https://docs.bean.money/almanac/community/links)
+
+### Basin
+* [Basin Whitepaper](https://basin.exchange/basin.pdf)
+* [Fergie Whitepaper](https://basin.exchange/fergie.pdf)
+* [Basin UI](https://basin.exchange)
+* [Basin Discord](https://basin.exchange)
+* [Basin Twitter](https://twitter.com/.exchange)
+* [Basin Docs](https://docs.basin.exchange)
+
+### Pipeline
+* [Pipeline Whitepaper](https://evmpipeline.org/pipeline.pdf)
 
 ## Repositories
 
@@ -54,6 +68,12 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 ### Basin
 
 * [Basin](https://github.com/BeanstalkFarms/Basin)
+    * [Basin Protocol](https://github.com/BeanstalkFarms/Basin)
+    * [Basin SDK](https://github.com/BeanstalkFarms/Beanstalk/tree/wells-main/projects/sdk-wells)
+    * [Basin Subgraph](https://github.com/BeanstalkFarms/Beanstalk/tree/wells-main/projects/subgraph-wells)
+    * [Basin UI](https://github.com/BeanstalkFarms/Beanstalk/tree/wells-main/projects/dex-ui)
+* [Basin Whitepaper](https://github.com/BeanstalkFarms/Basin-Whitepaper)
+* [Fergie Whitepaper](https://github.com/BeanstalkFarms/Fergie-Whitepaper)
 
 ### Pipeline
 
