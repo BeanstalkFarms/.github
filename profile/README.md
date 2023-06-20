@@ -27,6 +27,7 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 
 * [Beanstalk Farms Twitter](https://twitter.com/BeanstalkFarms)
 * [Immunefi Bug Bounty Program](https://immunefi.com/bounty/beanstalk)
+* [Audits](https://github.com/BeanstalkFarms/Beanstalk-Audits)
 
 ### Beanstalk 
 * [Beanstalk Whitepaper](https://bean.money/beanstalk.pdf)
@@ -42,7 +43,7 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 * [Fergie Whitepaper](https://basin.exchange/fergie.pdf)
 * [Basin UI](https://basin.exchange)
 * [Basin Discord](https://basin.exchange)
-* [Basin Twitter](https://twitter.com/.exchange)
+* [Basin Twitter](https://twitter.com/basinexchange)
 * [Basin Docs](https://docs.basin.exchange)
 
 ### Pipeline
