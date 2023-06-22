@@ -40,9 +40,9 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 
 ### Basin
 * [Basin Whitepaper](https://basin.exchange/basin.pdf)
-* [Fergie Whitepaper](https://basin.exchange/fergie.pdf)
+* [Multi Flow Pump Whitepaper](https://basin.exchange/multi-flow-pump.pdf)
 * [Basin UI](https://basin.exchange)
-* [Basin Discord](https://basin.exchange)
+* [Basin Discord](https://basin.exchange/discord)
 * [Basin Twitter](https://twitter.com/basinexchange)
 * [Basin Docs](https://docs.basin.exchange)
 
@@ -74,7 +74,7 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
     * [Basin Subgraph](https://github.com/BeanstalkFarms/Beanstalk/tree/wells-main/projects/subgraph-wells)
     * [Basin UI](https://github.com/BeanstalkFarms/Beanstalk/tree/wells-main/projects/dex-ui)
 * [Basin Whitepaper](https://github.com/BeanstalkFarms/Basin-Whitepaper)
-* [Fergie Whitepaper](https://github.com/BeanstalkFarms/Fergie-Whitepaper)
+* [Multi Flow Pump Whitepaper](https://github.com/BeanstalkFarms/Multi-Flow-Pump-Whitepaper)
 
 ### Pipeline
 
