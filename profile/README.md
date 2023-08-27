@@ -70,9 +70,9 @@ Beanstalk forms the monetary basis of an Ethereum-native, rent-free economy faci
 
 * [Basin](https://github.com/BeanstalkFarms/Basin)
     * [Basin Protocol](https://github.com/BeanstalkFarms/Basin)
-    * [Basin SDK](https://github.com/BeanstalkFarms/Beanstalk/tree/wells-main/projects/sdk-wells)
-    * [Basin Subgraph](https://github.com/BeanstalkFarms/Beanstalk/tree/wells-main/projects/subgraph-wells)
-    * [Basin UI](https://github.com/BeanstalkFarms/Beanstalk/tree/wells-main/projects/dex-ui)
+    * [Basin SDK](https://github.com/BeanstalkFarms/Beanstalk/tree/master/projects/sdk-wells)
+    * [Basin Subgraph](https://github.com/BeanstalkFarms/Beanstalk/tree/master/projects/subgraph-wells)
+    * [Basin UI](https://github.com/BeanstalkFarms/Beanstalk/tree/master/projects/dex-ui)
 * [Basin Docs](https://github.com/BeanstalkFarms/Basin-Docs)
 * [Basin Whitepaper](https://github.com/BeanstalkFarms/Basin-Whitepaper)
 * [Multi Flow Pump Whitepaper](https://github.com/BeanstalkFarms/Multi-Flow-Pump-Whitepaper)
